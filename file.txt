@@ -1,2 +1,4 @@
  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat soluta culpa fuga tempora eos qui repellat magnam illo nam alias suscipit mollitia tempore laudantium corporis consequatur, optio animi? Doloremque voluptatem id quos tempora delectus architecto ex unde corporis magnam dolores eius, consequuntur expedita eos repudiandae soluta voluptatum distinctio sunt sint.
  # Idag lærer vi commits!
+
+ Nå endrer den filen,og dermed opptater på nytt !
